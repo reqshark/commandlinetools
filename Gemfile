@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gem 'sinatra'
 gem 'eventmachine'
-gem 'em-http'
+gem 'igrigorik-em-http-request'
 gem 'awesome_print'
